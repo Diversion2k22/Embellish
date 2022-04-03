@@ -1,0 +1,10 @@
+.Img{
+background-image: url('https://source.unsplash.com/1600x900/?landscape%27');/* Can change landscape and the pixels u wanna select */
+background-size: cover;
+background-position: top;
+background-repeat: no-repeat;
+vertical-align: middle;
+min-height: 100vh;
+position: relative;
+}
+
