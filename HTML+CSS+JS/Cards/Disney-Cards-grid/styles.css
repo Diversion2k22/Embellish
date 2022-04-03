@@ -58,7 +58,7 @@ h1 {
 .video-card:hover{
   transform: scale(1.2);
   z-index: 1;
-} 
+}
 .video-card:hover .video-card-image {
   display: none;
 }
